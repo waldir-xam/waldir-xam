@@ -9,84 +9,81 @@ I'm Waldir Apaza, a passionate technology developer. Welcome to my GitHub profil
 - 💼 I'm looking for job opportunities as a Frontend Developer.
 
 ## How to reach me:
-<div style="display:flex; margin-right: -10px; align-items:center">
-<a href="https://discord.com/users/597457139736510505" style="margin-right: 20px;">
-<img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" height="32"/>
+
+<div style="display:flex; align-items:center">
+<a href="https://discord.com/users/597457139736510505" style="margin-right: 10px;">
+<img src="./icons/discord.svg" height="40"/>
 </a>
 <a href="mailto:waliuxd@gmail.com" style="margin-right: 10px;">
-<img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r5.png" height="38"/>
+<img src="./icons/gmail.svg" height="40"/>
 </a>
 <a href="https://www.linkedin.com/in/waldirxam/">
-<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" height="35"/>
+<img src="./icons/linkedin.svg" height="40"/>
 </a>
 </div>
 
 ## Technologies & Tools
-<div style="display:flex; margin-right: -10px; align-items:center">
-  <a  href="" target="_blank">
-      <img src="
-https://www.svgrepo.com/show/374016/python.svg" width="30" height="30"/>
-     </a>
-  <a  href="" target="_blank">
-      <img src="
-https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"  width="30" height="30"/>
+
+<div style="display:flex; align-items:center; gap:1em">
+    <a  href="" target="_blank">
+      <img src="./icons/react.svg" width="40" height="40"/>
      </a>
     <a  href="" target="_blank">
-      <img src="
-https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" width="30" height="30"/>
+      <img src="./icons/js.svg" width="40" height="40"/>
      </a>
+       <a  href="" target="_blank">
+       <img src="./icons/python.svg"  width="40" height="40"/>
+    </a>
+    <a href="" target="_blank">
+       <img src="./icons/nodejs.svg"   width="40" height="40"/>
+    </a>
+    <a href="" target="_blank">
+       <img src="./icons/npm.svg"   width="40" height="40"/>
+    </a>
     <a  href="" target="_blank">
-      <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="30" height="30"/>
+      <img src="./icons/postgresql.svg"  width="40" height="40"/>
      </a>
+     <a href="" target="_blank">
+       <img src="./icons/mongodb.svg"  width="40" height="40"/>
+    </a>
+    <a href="" target="_blank">
+       <img src="./icons/firebase.svg"  width="40" height="40"/>
+    </a>
+    <a href="" target="_blank">
+        <img src="./icons/css.svg"  width="40" height="40"/>
+    </a>
     <a  href="" target="_blank">
-       <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="30" height="30"/>
+      <img src="./icons/tailwind.svg"  width="40" height="40"/>
+     </a>
+    <a href="" target="_blank">
+       <img src="./icons/sass.svg" width="40" height="40"/>
     </a>
     <a href="" target="_blank">
-       <img src="https://img.icons8.com/color/48/000000/firebase.png" width="30" height="30"/>
+        <img src="./icons/git.svg"  width="40" height="40"/>
     </a>
     <a href="" target="_blank">
-       <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"  width="30" height="30"/>
+        <img src="./icons/figma.svg" width="40" height="40"/>
     </a>
     <a href="" target="_blank">
-       <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="30" height="30"/>
-    </a>
-    <a href="" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/git.png" width="30" height="30"/>
-    </a>
-    <a href="" target="_blank">
-       <img src="https://img.icons8.com/fluency/48/000000/node-js.png"   width="30" height="30"/>
-    </a>
-    <a href="" target="_blank">
-       <img src="https://img.icons8.com/color/48/000000/npm.png"  width="30" height="30"/>
-    </a>
-    <a href="" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/css3.png"  width="30" height="30"/>
-    </a>
-    <a href="" target="_blank">
-       <img src="https://img.icons8.com/color/48/000000/sass.png"  width="30" height="30"/>
-    </a>
-    <a href="" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/figma--v1.png"  width="30" height="30"/>
+       <img src="./icons/vscode.svg"  width="40" height="40"/>
     </a>
 </div>
 
 ## Experience
 
 - Freelancer - Frontend Developer - January 2020 to March 2023
-	 -   Developing user interfaces using web technologies such as HTML, CSS, and JavaScript, and popular frameworks and libraries like React.
-	-   Designing and implementing information architecture and navigation structure for a website or application.
-	-   Creating responsive and adaptive designs for different devices and screen sizes.
-	-   Optimizing the performance of user interfaces, including fast page loading and optimizing images and code.
-	-   Collaborating with the design and development team in an Agile environment, participating in project planning, tracking, and review meetings.
-	-   Testing and debugging user interfaces to ensure quality and functionality of the final product.
-	-   Keeping up-to-date with the latest trends and best practices in front-end design and development, and applying them in projects.
-	-   Communicating effectively with clients and team members to understand project requirements, provide updates, and resolve any questions or issues.
-
+  - Developing user interfaces using web technologies such as HTML, CSS, and JavaScript, and popular frameworks and libraries like React.
+  - Designing and implementing information architecture and navigation structure for a website or application.
+  - Creating responsive and adaptive designs for different devices and screen sizes.
+  - Optimizing the performance of user interfaces, including fast page loading and optimizing images and code.
+  - Collaborating with the design and development team in an Agile environment, participating in project planning, tracking, and review meetings.
+  - Testing and debugging user interfaces to ensure quality and functionality of the final product.
+  - Keeping up-to-date with the latest trends and best practices in front-end design and development, and applying them in projects.
+  - Communicating effectively with clients and team members to understand project requirements, provide updates, and resolve any questions or issues.
 
 ## Education
 
 - [Universidad Peruana de las Americas](https://www.ulasamericas.edu.pe/) - Accounting and Finance - Bachelor's Degree in 2017
-
 
 ## Certifications
 
@@ -95,7 +92,6 @@ https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a08
 ## Projects
 
 - Featured Projects: [In my portfolio](www.github.com/waldir-xam)
-
 
 ## Interests
 
@@ -106,7 +102,6 @@ https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a08
 - Contributions to open-source projects and participation in developer communities.
 - Agile development methodologies like Scrum or Kanban.
 - Automation of tasks and continuous integration and deployment (CI/CD) tools.
-
 
 ## Hobbies and Interests
 
@@ -126,5 +121,3 @@ https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a08
 
 Thanks for visiting my GitHub profile!
 Do not hesitate to contact me if you have any questions or if you want to collaborate on a project.
-
-
