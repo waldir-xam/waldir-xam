@@ -4,9 +4,8 @@ I'm Waldir Apaza, a passionate technology developer. Welcome to my GitHub profil
 
 ## About me
 
-- 🔭 I'm currently working as a Freelancer.
-- 🌱 I'm learning about popular technologies and working on personal projects (as I complete them, I'll upload them to my GitHub).
-- 💼 I'm looking for job opportunities as a Frontend Developer.
+- 🌱 I'm learning about popular technologies and working on personal projects (as I complete some of them, I'll upload them to my GitHub).
+- 💼 I'm looking for job opportunities as a Full Stack Developer.
 
 ## How to reach me:
 
