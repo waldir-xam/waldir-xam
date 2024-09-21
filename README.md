@@ -176,3 +176,7 @@ I'm Waldir Apaza, I'm a full stack web developer.
 
 Thanks for visiting my GitHub profile!
 Do not hesitate to contact me if you have any questions or if you want to collaborate on a project.
+
+---
+[![](https://visitcount.itsvg.in/api?id=waldir-xam&icon=0&color=0)](https://visitcount.itsvg.in)
+
